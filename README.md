@@ -74,7 +74,7 @@ Add into app project level
 
 ``` Gradle
 dependecies{
-    compile 'com.github.oceanbrasil:samsung-services-pass:1.1.3'
+    compile 'com.github.oceanbrasil:samsung-services-professional-audio:2.1.5'
 }
 ```
 
